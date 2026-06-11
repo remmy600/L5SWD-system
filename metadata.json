@@ -1,0 +1,6 @@
+{
+  "name": "L5SWD Exam Practice",
+  "description": "An interactive study companion, prep assistant, and mock exam simulator for the NESA Level 5 Software Development (L5SWD) TVET National Examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
